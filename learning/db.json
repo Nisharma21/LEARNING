@@ -1,0 +1,37 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "nisha@123gmail.com",
+      "email": "nisha@123gmail.com",
+      "mobile": 34567890,
+      "salary": ""
+    },
+    {
+      "id": 2,
+      "firstName": "nisha@123gmail.com",
+      "email": "nisha@123gmail.com",
+      "mobile": 34567890,
+      "salary": ""
+    }
+  ],
+  "registerUser": [
+    {
+      "fullname": "jnjnkmk,l.",
+      "email": "nisha@123gmail.com",
+      "password": "sdfghjk",
+      "mobile": 4567867890,
+      "id": 1
+    },
+    {
+      "fullname": "jnjnkmk,l.",
+      "email": "nisha@123gmail.com",
+      "password": "1234",
+      "mobile": 456789009875,
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
